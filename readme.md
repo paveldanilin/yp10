@@ -1,2 +1,2 @@
-# Yp10
-v0.0.1
+## [GH-pages](https://paveldanilin.github.io/yp10/)
+* v0.0.1
